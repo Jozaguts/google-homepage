@@ -199,4 +199,16 @@ footer div{
     border-bottom-style: solid;
     border-bottom-color: rgb(228, 228, 228);
 }
-
+.footer-subcontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.right-container span{
+    font-size: 13px;
+}
+.left-container{
+    padding-right: 27px;
+}
+.left-container span{
+    font-size: 13px;
+}
